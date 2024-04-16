@@ -1,0 +1,212 @@
+Lambda: 0.0
+
+run: 1/15
+Label Classifier Accuracy (Test Data) 
+Source (White): 83.54354354354355
+Target (Black): 75.13615416841223
+Overall: 79.43494728221927
+
+Domain Classifier Accuracy (Test Data) 
+Source (White): 59.27927927927928
+Target (Black): 83.45203183912861
+Overall: 71.09223052513052
+
+False Positive Rate (Test Data) 
+Source (White): 16.538192011212335
+Target (Black): 28.986422481844016
+(Black FPR) / (White FPR): 1.752695969558958
+Overall: 21.831364124597208
+
+Source Label Positive Rate: 0.2618618607521057
+Target Label Positive Rate: 0.47255969047546387
+Overall Label Positive Rate: 0.3648275136947632
+
+run: 2/15
+Label Classifier Accuracy (Test Data) 
+Source (White): 83.68368368368368
+Target (Black): 75.34562211981567
+Overall: 79.60896714095608
+
+Domain Classifier Accuracy (Test Data) 
+Source (White): 60.38038038038038
+Target (Black): 82.42563887725179
+Overall: 71.15364929880234
+
+False Positive Rate (Test Data) 
+Source (White): 16.374678813361363
+Target (Black): 28.891695610988318
+(Black FPR) / (White FPR): 1.7644129659149927
+Overall: 21.697099892588614
+
+Source Label Positive Rate: 0.2604604661464691
+Target Label Positive Rate: 0.4733975827693939
+Overall Label Positive Rate: 0.36452043056488037
+
+run: 3/15
+Label Classifier Accuracy (Test Data) 
+Source (White): 83.72372372372372
+Target (Black): 75.5550900712191
+Overall: 79.73180468829972
+
+Domain Classifier Accuracy (Test Data) 
+Source (White): 58.2982982982983
+Target (Black): 83.6405529953917
+Overall: 70.68277203398506
+
+False Positive Rate (Test Data) 
+Source (White): 16.327960756832514
+Target (Black): 28.512788127565518
+(Black FPR) / (White FPR): 1.7462553072118454
+Overall: 21.509129967776584
+
+Source Label Positive Rate: 0.26006007194519043
+Target Label Positive Rate: 0.4704650044441223
+Overall Label Positive Rate: 0.3628825843334198
+
+run: 4/15
+Label Classifier Accuracy (Test Data) 
+Source (White): 83.64364364364364
+Target (Black): 75.32467532467533
+Overall: 79.57825775412017
+
+Domain Classifier Accuracy (Test Data) 
+Source (White): 59.31931931931932
+Target (Black): 82.40469208211144
+Overall: 70.60088033575596
+
+False Positive Rate (Test Data) 
+Source (White): 16.39803784162579
+Target (Black): 28.95484685822545
+(Black FPR) / (White FPR): 1.7657507037046032
+Overall: 21.737379162191193
+
+Source Label Positive Rate: 0.2604604661464691
+Target Label Positive Rate: 0.4740259647369385
+Overall Label Positive Rate: 0.3648275136947632
+
+run: 5/15
+Label Classifier Accuracy (Test Data) 
+Source (White): 83.8038038038038
+Target (Black): 75.24088814411395
+Overall: 79.61920360323472
+
+Domain Classifier Accuracy (Test Data) 
+Source (White): 58.47847847847848
+Target (Black): 83.24256388772518
+Overall: 70.58040741119869
+
+False Positive Rate (Test Data) 
+Source (White): 16.281242700303668
+Target (Black): 29.01799810546258
+(Black FPR) / (White FPR): 1.7822962681418264
+Overall: 21.697099892588614
+
+Source Label Positive Rate: 0.26006007194519043
+Target Label Positive Rate: 0.4740259647369385
+Overall Label Positive Rate: 0.3646227717399597
+
+run: 6/15
+Label Classifier Accuracy (Test Data) 
+Source (White): 83.6036036036036
+Target (Black): 74.96857980728949
+Overall: 79.38376497082608
+
+Domain Classifier Accuracy (Test Data) 
+Source (White): 59.77977977977978
+Target (Black): 80.62421449518224
+Overall: 69.9662196744805
+
+False Positive Rate (Test Data) 
+Source (White): 16.514832982947908
+Target (Black): 29.365329965266813
+(Black FPR) / (White FPR): 1.7781184947851094
+Overall: 21.97905477980666
+
+Source Label Positive Rate: 0.26206207275390625
+Target Label Positive Rate: 0.4759112000465393
+Overall Label Positive Rate: 0.3665677011013031
+
+run: 7/15
+Label Classifier Accuracy (Test Data) 
+Source (White): 83.66366366366367
+Target (Black): 75.2618349392543
+Overall: 79.5577848295629
+
+Domain Classifier Accuracy (Test Data) 
+Source (White): 57.87787787787788
+Target (Black): 84.39463762044407
+Overall: 70.8363189681646
+
+False Positive Rate (Test Data) 
+Source (White): 16.35131978509694
+Target (Black): 28.891695610988318
+(Black FPR) / (White FPR): 1.7669335558662997
+Overall: 21.683673469387756
+
+Source Label Positive Rate: 0.2598598599433899
+Target Label Positive Rate: 0.47255969047546387
+Overall Label Positive Rate: 0.3638038635253906
+
+run: 8/15
+Label Classifier Accuracy (Test Data) 
+Source (White): 83.54354354354355
+Target (Black): 75.366568914956
+Overall: 79.54754836728426
+
+Domain Classifier Accuracy (Test Data) 
+Source (White): 58.6986986986987
+Target (Black): 82.38374528697109
+Overall: 70.27331354283959
+
+False Positive Rate (Test Data) 
+Source (White): 16.561551039476758
+Target (Black): 28.86011998736975
+(Black FPR) / (White FPR): 1.74259765396234
+Overall: 21.79108485499463
+
+Source Label Positive Rate: 0.2622622549533844
+Target Label Positive Rate: 0.4731881022453308
+Overall Label Positive Rate: 0.36533933877944946
+
+run: 9/15
+Label Classifier Accuracy (Test Data) 
+Source (White): 83.88388388388388
+Target (Black): 75.49224968579807
+Overall: 79.78298699969291
+
+Domain Classifier Accuracy (Test Data) 
+Source (White): 58.25825825825826
+Target (Black): 83.89191453707583
+Overall: 70.78513665677141
+
+False Positive Rate (Test Data) 
+Source (White): 16.211165615510396
+Target (Black): 28.60751499842122
+(Black FPR) / (White FPR): 1.7646797076115452
+Overall: 21.482277121374867
+
+Source Label Positive Rate: 0.25965964794158936
+Target Label Positive Rate: 0.47109341621398926
+Overall Label Positive Rate: 0.36298495531082153
+
+run: 10/15
+Label Classifier Accuracy (Test Data) 
+Source (White): 83.58358358358359
+Target (Black): 74.9266862170088
+Overall: 79.35305558399017
+
+Domain Classifier Accuracy (Test Data) 
+Source (White): 57.95795795795796
+Target (Black): 83.03309593632174
+Overall: 70.21189476916777
+
+False Positive Rate (Test Data) 
+Source (White): 16.421396869890213
+Target (Black): 29.20745184717398
+(Black FPR) / (White FPR): 1.778621640935303
+Overall: 21.858216970998924
+
+Source Label Positive Rate: 0.2602602541446686
+Target Label Positive Rate: 0.4733975827693939
+Overall Label Positive Rate: 0.36441805958747864
+
